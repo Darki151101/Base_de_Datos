@@ -37,6 +37,8 @@ operaciones sobre estos archivos, tales como: (valor 1.5)
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
+Un sistema informático es aquel sistema que aúna por un lado la parte física de la informática y por otra, la parte digital o no tangible de la informática. En otras palabras, un sistema informático debe estar compuesto por hardware y software para que pueda denominarse como tal
+
 ## Práctica 2.
 
 2. Diseño de un modelo relacional

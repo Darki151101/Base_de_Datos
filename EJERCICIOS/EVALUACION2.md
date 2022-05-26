@@ -4,21 +4,37 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
+- CHAR
+- VARCHAR
+- INT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+- DELETE: Elimina Una serie de filas
+- TRUNCATE: Elimina todo
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+Para de limiatar dato y no se repitan 
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+- CHAR: Tiene una longitud fuji de caracteres
+- VARCHAR: Tiene una longitud maxima de caracteres
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+Structured Query Language o lenguaje de consuta estructurado
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+ES un editor visual de base de datos MySQL que cuenta con el respaldo oficial de MySQL
 
 ## Práctica 5.
 ### Gestores de base de datos
@@ -35,7 +51,7 @@ Ejercicio:
 En un mapa conceptual presenta 3 gestores de bases de datos, sus características
 principales, las ventajas y desventajas. (valor 6)
 
-![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
+![image](https://user-images.githubusercontent.com/99523872/170518596-3e745fbd-7a44-4301-ae3a-78845144003e.png)
 
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
@@ -56,7 +72,9 @@ Tienda de informática
 
 Modelo entidad/relación
 
-
-
+![image](https://user-images.githubusercontent.com/99523872/170520790-1b66570d-5b19-453a-92bf-00c41be2b5f1.png)
 
 Base de datos para MySQL
+
+https://www.db-fiddle.com/f/3CpAKjTiHDh3Lr1AEnW8Xu/0
+

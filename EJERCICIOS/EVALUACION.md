@@ -86,3 +86,5 @@ https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/2
 
 https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/3
 
+https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/4
+

@@ -55,9 +55,9 @@ datos que se solicitan. (valor 4.5)
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
-![image](https://user-images.githubusercontent.com/99523872/171671513-b2cbadf4-936e-440d-8083-29461f72be36.png)
+![image](https://user-images.githubusercontent.com/99523872/171886352-e1cc7075-464b-4585-acf0-b0f153b24b65.png)
 
-![image](https://user-images.githubusercontent.com/99523872/171671624-04dcf7e8-93f3-416d-bf69-752264092fe1.png)
+![image](https://user-images.githubusercontent.com/99523872/171886078-f31625b9-f355-4567-9eef-fa40d225229d.png)
 
 ## Práctica 8.
 ### Disparadores (Triggers)
